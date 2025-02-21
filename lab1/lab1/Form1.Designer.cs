@@ -36,6 +36,8 @@
             label1 = new Label();
             label2 = new Label();
             label3 = new Label();
+            button1 = new Button();
+            button2 = new Button();
             SuspendLayout();
             // 
             // btnplus10
@@ -112,11 +114,33 @@
             label3.TabIndex = 7;
             label3.Text = "Попробуйте из числа 10 получить 13";
             // 
+            // button1
+            // 
+            button1.Location = new Point(30, 272);
+            button1.Name = "button1";
+            button1.Size = new Size(143, 23);
+            button1.TabIndex = 8;
+            button1.Text = "Открыть задание 2";
+            button1.UseVisualStyleBackColor = true;
+            button1.Click += button1_Click;
+            // 
+            // button2
+            // 
+            button2.Location = new Point(374, 272);
+            button2.Name = "button2";
+            button2.Size = new Size(153, 23);
+            button2.TabIndex = 9;
+            button2.Text = "Открыть задание 3";
+            button2.UseVisualStyleBackColor = true;
+            button2.Click += button2_Click;
+            // 
             // zad1
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(563, 298);
+            Controls.Add(button2);
+            Controls.Add(button1);
             Controls.Add(label3);
             Controls.Add(label2);
             Controls.Add(label1);
@@ -141,5 +165,7 @@
         private Label label1;
         private Label label2;
         private Label label3;
+        private Button button1;
+        private Button button2;
     }
 }

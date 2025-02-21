@@ -51,5 +51,17 @@ namespace lab1
         {
             ResultNum.Text = EnterNum.Text;
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            zad2 newForm = new zad2();
+            newForm.Show();
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            Form3 newForm = new Form3();
+            newForm.Show();
+        }
     }
 }
