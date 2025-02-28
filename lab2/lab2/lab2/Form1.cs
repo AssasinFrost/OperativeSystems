@@ -142,6 +142,7 @@ namespace lab2
             {
                 foldersDataGridView.Rows.Clear();
                 string[] folders = Directory.GetDirectories(path);
+                string[] files = Directory.GetFiles(path);
                 previousFreeSpace.Clear();
 
                 if (pathHistory.Count > 1)
@@ -155,6 +156,16 @@ namespace lab2
                     {
                         foldersDataGridView.Rows.Add(Path.GetFileName(folder));
                     }
+
+                }
+
+                foreach (string file in files)
+                {
+                    if ((File.GetAttributes(file) & FileAttributes.Hidden) == 0)
+                    {
+                        foldersDataGridView.Rows.Add(Path.GetFileName(file));
+                    }
+
                 }
             }
             catch (UnauthorizedAccessException)
