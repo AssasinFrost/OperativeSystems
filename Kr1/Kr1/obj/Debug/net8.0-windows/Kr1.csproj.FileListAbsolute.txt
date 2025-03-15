@@ -1,0 +1,17 @@
+D:\Учеба\4th sem\Операционные системы и технологии\Kr1\Kr1\bin\Debug\net8.0-windows\Kr1.exe
+D:\Учеба\4th sem\Операционные системы и технологии\Kr1\Kr1\bin\Debug\net8.0-windows\Kr1.deps.json
+D:\Учеба\4th sem\Операционные системы и технологии\Kr1\Kr1\bin\Debug\net8.0-windows\Kr1.runtimeconfig.json
+D:\Учеба\4th sem\Операционные системы и технологии\Kr1\Kr1\bin\Debug\net8.0-windows\Kr1.dll
+D:\Учеба\4th sem\Операционные системы и технологии\Kr1\Kr1\bin\Debug\net8.0-windows\Kr1.pdb
+D:\Учеба\4th sem\Операционные системы и технологии\Kr1\Kr1\obj\Debug\net8.0-windows\Kr1.Form1.resources
+D:\Учеба\4th sem\Операционные системы и технологии\Kr1\Kr1\obj\Debug\net8.0-windows\Kr1.csproj.GenerateResource.cache
+D:\Учеба\4th sem\Операционные системы и технологии\Kr1\Kr1\obj\Debug\net8.0-windows\Kr1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учеба\4th sem\Операционные системы и технологии\Kr1\Kr1\obj\Debug\net8.0-windows\Kr1.AssemblyInfoInputs.cache
+D:\Учеба\4th sem\Операционные системы и технологии\Kr1\Kr1\obj\Debug\net8.0-windows\Kr1.AssemblyInfo.cs
+D:\Учеба\4th sem\Операционные системы и технологии\Kr1\Kr1\obj\Debug\net8.0-windows\Kr1.csproj.CoreCompileInputs.cache
+D:\Учеба\4th sem\Операционные системы и технологии\Kr1\Kr1\obj\Debug\net8.0-windows\Kr1.sourcelink.json
+D:\Учеба\4th sem\Операционные системы и технологии\Kr1\Kr1\obj\Debug\net8.0-windows\Kr1.dll
+D:\Учеба\4th sem\Операционные системы и технологии\Kr1\Kr1\obj\Debug\net8.0-windows\refint\Kr1.dll
+D:\Учеба\4th sem\Операционные системы и технологии\Kr1\Kr1\obj\Debug\net8.0-windows\Kr1.pdb
+D:\Учеба\4th sem\Операционные системы и технологии\Kr1\Kr1\obj\Debug\net8.0-windows\Kr1.genruntimeconfig.cache
+D:\Учеба\4th sem\Операционные системы и технологии\Kr1\Kr1\obj\Debug\net8.0-windows\ref\Kr1.dll
